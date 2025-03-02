@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "tpmod3": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
